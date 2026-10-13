@@ -1,0 +1,7 @@
+{
+  "name": "clawd",
+  "version": "0.1.0",
+  "description": "Animated Clawd above the prompt that stays for the whole chat and acts out what Claude is doing",
+  "author": { "name": "fitchiks" },
+  "types": "./types/index.d.ts"
+}

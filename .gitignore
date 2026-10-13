@@ -1,0 +1,8 @@
+.claude-plugin/types/
+
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+clawd-plugin-0.1.0.zip
